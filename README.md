@@ -7,7 +7,8 @@ Just copy the php file and use it.
 
 Don't forget to change the namespace and file paths.
 
-My name is Ing. Markus Ramšak. I am from Kärnten and a software developer since 2016.
+My name is Ing. Markus Ramšak. I am from Kärnten and a PHP software developer since 2006.
+
 My homepage: https://wowdas.at
 
-Please leave a like, if it helped you save time.
+Please leave a star, if it helped you save time.
