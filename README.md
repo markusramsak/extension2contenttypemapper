@@ -1,4 +1,4 @@
-# extension2contenttypemapper
+# Extension2ContentTypeMapper
 Get mime type (content type) by file extension
 
 refresh your extension to content type map locally by using: refreshSource() and generateJson();
