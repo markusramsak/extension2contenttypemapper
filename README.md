@@ -1,7 +1,7 @@
 # Extension2ContentTypeMapper
-Get mime type (content type) by file extension
+Get mime type (content type) by file extension. 
 
-refresh your extension to content type map locally by using: refreshSource() and generateJson();
+Refresh your extension to content type map locally by using: refreshSource() and generateJson();
 
 Just copy the php file and use it.
 
@@ -11,4 +11,4 @@ My name is Ing. Markus Ramšak. I am from Kärnten and a PHP software developer 
 
 My homepage: https://wowdas.at
 
-Please leave a star, if it helped you save time.
+Please leave a star, if it helped you save some time.
